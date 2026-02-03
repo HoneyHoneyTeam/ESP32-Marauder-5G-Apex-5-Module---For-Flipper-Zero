@@ -18,22 +18,23 @@
 
   ## 1. What is Apex 5 Module
 	
-	Apex 5 Module is Our latest creation for Flipper Zero. The 5 is stand for 5 major functionality on board, vastly extend the capability of flipper Zero. 
+Apex 5 Module is Our latest creation for Flipper Zero. The 5 is stand for 5 major functionality on board, vastly extend the capability of flipper Zero. 
 	
-	• ESP32-C5, featuring Marauder. It is capable for handling 2.4G + 5G wifi by utilising Marauder firmware
-	• Dual SugGhz modules, 
-		○ One for 433mhz 
-		○ Another one is 868mhz frequency 
-	• NRF24 Chipset for capture, analyze and sending raw 2.4Ghz packet data, 
-	• GPS
+- **ESP32-C5**, featuring **Marauder**. It is capable for handling 2.4G + 5G wifi by utilising Marauder firmware
+- **Dual SugGhz modules**, 
+	- One for **433mhz**
+	- Another one is **868mhz** frequency 
+- **NRF24 **Chipset for capture, analyze and sending raw 2.4Ghz packet data, 
+- **GPS**
 	
 ## 2. What make Apex 5 Module special.
   
-		a. Comprehensive & Powerful. The Apex 5 Module packs most frequest extendable funtionalities for Flipper zero, while remainly portable size. In comparison of our Double Barrel 5G unit, Apex 5 module trim down one set of Marauder. While keeping the 5G wifi capability, dual Subghz and NRF24 are also added.
-		b. User-friendly
-			i. Marauder firmware has been pre-load
-			ii. Well-writen Manual & Demo videos, just mostly of our products
-			iii. Prompt Technical support via WhatsApp and email
+1. **Comprehensive & Powerful.** The Apex 5 Module packs most frequest extendable funtionalities for Flipper zero, while remainly portable size. In comparison of our Double Barrel 5G unit, Apex 5 module trim down one set of Marauder. While keeping the 5G wifi capability, dual Subghz and NRF24 are also added.
+
+3. **User-friendly**
+	- Marauder firmware has been pre-load
+	- Well-writen Manual & Demo videos, just mostly of our products
+	- Prompt Technical support via WhatsApp and email
 
 ## 3. Specification
 		a. Genius ESP32-C5 chipest, featuring ESP32 Marauder Firmware, support 5G wifi
