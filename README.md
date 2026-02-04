@@ -20,7 +20,7 @@
 	
 Apex 5 Module is Our latest creation for Flipper Zero. The 5 is **stand for 5 major functionality on board**, vastly extend the capability of flipper Zero. 
 	
-- ⚡ **ESP32-C5**, featuring **Marauder**. It is capable for handling 2.4G + 5G wifi by utilising Marauder firmware
+- ⚡ **ESP32-C5**, featuring **Marauder**. It is capable for handling **2.4G + 5G wifi** by utilising Marauder firmware
 - ⚡ **Dual SugGhz modules** for **433mhz** and **868mhz** frequency 
 - ⚡ **NRF24** Chipset for capture, analyze and sending raw 2.4Ghz packet data
 - ⚡ **GPS**
