@@ -1,11 +1,12 @@
 # ESP32 Marauder 5G - Apex 5 Module - User Manual 
 
-![Alt text](Assets/images/White.Front.jpg)
-![Alt text](Assets/images/White.Back.jpg)
+![Alt text](Assets/images/B.W.Flipper.Front.jpg)
+![Alt text](Assets/images/B.W.Flipper.Back.jpg)
+![Alt text](Assets/images/B.W.Flipper.side.jpg)
 ![Alt text](Assets/images/Black.Front.jpg)
-![Alt text](Assets/images/Black.Back.jpg)
-![Alt text](Assets/images/Black.Front.Without.jpg)
-![Alt text](Assets/images/Black.Back.Without.jpg)
+![Alt text](Assets/images/White.front.Flipper.jpg)
+![Alt text](Assets/images/Standalone.B.W.jpg)
+![Alt text](Assets/images/Both.Flipper.without.Attenna.jpg)
 
 > [!NOTE]
 > - Batch 1 units will be available to order on [Tindie](https://www.tindie.com/products/honeyhoneytrading/esp32-marauder-double-barrel-5g/) from 29 Oct 2025, and will ship out on Friday 31 Oct 2025
