@@ -21,21 +21,34 @@
 	
 Apex 5 Module is Our latest creation for Flipper Zero. The 5 is **stand for 5 major functionality on board**, vastly extend the capability of flipper Zero. 
 	
-- ⚡ **ESP32-C5**, featuring **Marauder**. It is capable for handling **2.4G + 5G wifi** by utilising Marauder firmware
-- ⚡ **Dual SugGhz modules** for **433mhz** and **868mhz** frequency 
-- ⚡ **NRF24** Chipset for capture, analyze and sending raw 2.4Ghz packet data
-- ⚡ **GPS**
+- ⚡ **ESP32-C5** running **Marauder** firmware, capable of handling **2.4GHz + 5GHz WiFi**
+- ⚡ **Dual Sub-GHz modules** supporting **433MHz** and **868MHz** frequencies
+- ⚡ **NRF24 Chipset** capturing, analysing, and transmitting raw 2.4GHz packet data
+- ⚡ **Built-in GPS**
 	
-## 2. What make Apex 5 Module special.
+## 2. What Makes Apex 5 Module Special?
   
-1. **Comprehensive & Powerful.**
+1️⃣ **Comprehensive & Powerful**
 
-	The Apex 5 Module packs most frequest extendable funtionalities for Flipper zero, while remainly portable size. In comparison of our Double Barrel 5G unit, Apex 5 module trim down one set of Marauder. While keeping the 5G wifi capability, dual Subghz and NRF24 are also added.
+The **Apex 5 Module** combines the most popular expandable functionalities for the Flipper Zero into one compact and portable device. 
+	
+Compared to our **Double Barrel 5G** unit, the Apex 5 trims down to a single Marauder setup while still **retaining full 5GHz WiFi capability**. On top of that, it also integrates:
+- Dual Sub-GHz modules
+- NRF24 support
 
-2. **User-friendly**
-	- Marauder firmware has been pre-load
-	- Well-writen Manual & Demo videos, just mostly of our products
-	- Prompt Technical support via WhatsApp and email
+<Br/>
+
+2️⃣ **User-friendly**
+
+We designed Apex 5 not just for performance, but for ease of use:
+- ✅ **Marauder firmware comes preloaded** — ready to use out of the box
+- ✅ **Well-written manuals and demo videos** (just like our other products)
+- ✅ **Responsive technical support** via WhatsApp and email
+
+Whether you're new or experienced, you can get started quickly and confidently.
+
+<Br/>
+
 
 ## 3. Specification
 
