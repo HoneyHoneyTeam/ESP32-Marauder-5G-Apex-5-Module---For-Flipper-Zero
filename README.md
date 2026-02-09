@@ -35,8 +35,8 @@ Apex 5 Module is Our latest creation for Flipper Zero. The 5 is **stand for 5 ma
 The **Apex 5 Module** combines the most popular expandable functionalities for the Flipper Zero into one compact and portable device. 
 	
 Compared to our **Double Barrel 5G** unit, the Apex 5 trims down to a single Marauder setup while still **retaining full 5GHz WiFi capability**. On top of that, it also integrates:
-- Dual Sub-GHz modules
-- NRF24 support
+- ✅ Dual Sub-GHz modules
+- ✅ NRF24 support
 
 <Br/>
 
