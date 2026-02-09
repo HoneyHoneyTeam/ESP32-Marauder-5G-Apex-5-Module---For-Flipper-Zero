@@ -9,13 +9,13 @@
 ![Alt text](Assets/images/Both.Flipper.without.Attenna.jpg)
 
 > [!NOTE]
-> - Batch 1 units will be available to order on Tindie from 12 Feb 2026, and will ship out on Friday 15 Feb 2026
+> - Batch 1 units will be available to order on Tindie from 12 Feb 2026 and are scheduled to ship on Friday, 15 Feb 2026.
 >   
-> - 09 Feb 2026 - First version of this Manual - by Anson C. @ Honey Honey Team
+> - 09 Feb 2026 — First version of this manual, by Anson C. @ Honey Honey Team
+>
+> - Batch 1 of the APEX 5 module does not support Marauder WarDrive. If WarDrive is essential for your application, please wait for Batch 2.
 > 
-> - All procedures and descriptions related to the Flipper Zero herein were validated using Momentum Firmware, version < MNTM-010 30-04-2025 >.
->   
-> - Currently the Batch 1 of APEX 5 module is not support Marauder WarDrive. If WarDrive is a must to your application, please wait for Batch 2. 
+> - All procedures and descriptions related to the Flipper Zero in this manual were validated using Momentum Firmware version MNTM-012 (30-04-2025).
 
 <br/>
 
