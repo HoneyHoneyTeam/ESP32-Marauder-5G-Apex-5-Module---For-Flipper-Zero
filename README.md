@@ -100,7 +100,7 @@ Whether you're new or experienced, you can get started quickly and confidently.
 
 	
 ## 6. Demo videos
-- 🔸 **Introduction to the Apex 5**, including initial setup, a quick Marauder walkthrough, and a demo of the dual Sub-GHz functions
+- 🔸 **Introduction to the Apex 5**, including initial setup, a quick Marauder walkthrough, and a demo of the dual Sub-GHz functions. (Video will be available before product shipping.)
 - 🔸 **How to update Marauder firmware** on the ESP32-C5 chipset
 
 <Br/>
