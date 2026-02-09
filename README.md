@@ -9,11 +9,13 @@
 ![Alt text](Assets/images/Both.Flipper.without.Attenna.jpg)
 
 > [!NOTE]
-> - Batch 1 units will be available to order on [Tindie](https://www.tindie.com/products/honeyhoneytrading/esp32-marauder-double-barrel-5g/) from 29 Oct 2025, and will ship out on Friday 31 Oct 2025
+> - Batch 1 units will be available to order on Tindie from 12 Feb 2026, and will ship out on Friday 15 Feb 2026
 >   
-> - 28 Oct 2025 - First version of this Manual - by Anson C. @ Honey Honey Team
+> - 09 Feb 2026 - First version of this Manual - by Anson C. @ Honey Honey Team
 > 
 > - All procedures and descriptions related to the Flipper Zero herein were validated using Momentum Firmware, version < MNTM-010 30-04-2025 >.
+>   
+> - Currently the Batch 1 of APEX 5 module is not support Marauder WarDrive. If WarDrive is a must to your application, please wait for Batch 2. 
 
 <br/>
 
@@ -52,33 +54,84 @@ Whether you're new or experienced, you can get started quickly and confidently.
 
 ## 3. Specification
 
-- **Genius ESP32-C5** chipest, featuring ESP32 Marauder Firmware, support 5G wifi
-  - 🔸 8MB ram & 8MB flash version for longevity / Upgradability
-  - 🔸 SDXC Card slot  for saving PCMG file and log file from Marauder (Alternatively)
-  - 🔸 External attenna
-  - 🔸 PCMG and Log files also can be saved on Flipper SD card
-  - 🔸 USB-C port and Boost Bottom for upgrading firmware purpose (Right Bottom / B)			
+- 🌟 **Genius ESP32-C5 chipset** featuring ESP32 Marauder firmware with **5 GHz WiFi support**
+  - 🔸 **8MB ram & 8MB flash** version for longevity / Upgradability
+  - 🔸 **SDXC card slot** for saving PCAP and log files from Marauder (optional storage)
+  - 🔸 **External antenna** for improved signal performance
+  - 🔸 PCAP and log files can also be saved directly to the **Flipper SD card**
+  - 🔸 **USB-C port and Boost Bottom** for upgrading firmware purpose (right-side button “B”)		
 
-- **Dual SubGhz** chipset with individual LEDs,
-  - 🔸 One SubGhz chipset for 433Mhz Frequency
-  - 🔸 Another SubGhz chipset for 868Mhz Frequency
-  - 🔸 1 * bottom for switching between 433 and 868mhz Frequency (Left bottom / A)
-  - 🔸 2 * Leds for indicating which frequency is on currently
-  - 🔸 Dual Antenna 
-- **NRF24 chipset**
-  - 🔸 The chipset is controlled via Flipper Zero App like Channel Scan, Mouse Jacker, Scan, Sniffer or othe Script
-  - 🔸 Led indicator
-  - 🔸 External antenna
-- **GPS with antenna**
-- **Full 3D printed enclosure (Pre-Installed)**
+- 🌟 **Dual Sub-GHz chipset** with individual LED indicators
+  - 🔸 One Sub-GHz chipset dedicated to **433 MHz**
+  - 🔸 One Sub-GHz chipset dedicated to **868 MHz**
+  - 🔸 **1 bottom** for switching between 433 and 868mhz Frequency (Left bottom / A)
+  - 🔸 **2 LEDs** to indicate which frequency is currently active
+  - 🔸 **Dual antennas** for optimal signal performance
+ 
+- 🌟 **nRF24 chipset**
+  - 🔸 Controlled via the **Flipper Zero app** (Channel Scan, MouseJacker, Scan, Sniffer, and other scripts)
+  - 🔸 **Led indicator**
+  - 🔸 **External antenna**
+    
+- 🌟 **GPS module** with external antenna
+  
+- 🌟 **Fully assembled 3D-printed enclosure** (pre-installed)
+
+
+<Br/>
+
+
 	
-## 4. Package list / What is included in the package
-		- 1 * Apex 5 Module
-		- 3D Printed enclsure (2 piece and pre-installed)
-		- 5 * antenna, please check photo 3 for antenna reference and purpose. 
-		- 1 * quick note for helping you start. 
+## 4. Package List / What’s Included
+- 🔸  1 × Apex 5 Module
+- 🔸  Pre-installed 2-piece 3D-printed enclosure (available in black or white)
+- 🔸  **5 × Antennas** (please refer to Photo 3 for antenna types and their purposes)
+- 🔸  **1 × Quick-start note** to help you get started and our contact for warrenty and technical suppoort
 
-## 5. Demo Video / Manual 
-		- Initial setup video, based on Momentum firmware (coming soon). 
-		- Full Demo Video (coming soon)
-		- Manual hosted on Github
+
+<Br/>
+
+
+## 5.  Link to purhcase
+- 🔸  Our Tindie shop - Direct Purchase link (In Progress)
+- 🔸  Our Official Shopify shop - Direct Link (In Progress)
+
+<Br/>
+
+	
+## 6. Demo videos
+- 🔸 **Introduction to the Apex 5**, including initial setup, a quick Marauder walkthrough, and a demo of the dual Sub-GHz functions
+- 🔸 **How to update Marauder firmware** on the ESP32-C5 chipset
+
+<Br/>
+
+	
+## 7. Initial Setup Guide (First-Time Use)
+**Written guide in progress**. Most of this topic is covered in the “**Introduction to the Apex 5**” video, and the written guide will serve as a supplementary reference.
+Estimated release of the first version: before 15/02/2026
+
+<Br/>
+
+
+## 8. How to Use Marauder Firmware & How to Update the Firmware (Written Guide)
+Written guide in progress. Most of this topic is covered in the “How to Update Marauder Firmware” video, and the written guide will serve as a supplementary reference.
+Estimated release of the first version: before 15/02/2026
+
+<Br/>
+
+
+## 9. How to Utilize Sub-GHz (Written Guide)
+**Written guide in progress**. Most of this topic is covered in the “**Introduction to the Apex 5**” video, and the written guide will serve as a supplementary reference.
+Estimated release of the first version: before 15/02/2026
+
+<Br/>
+
+
+
+
+
+
+
+
+
+
