@@ -93,7 +93,7 @@ Whether you're new or experienced, you can get started quickly and confidently.
 
 
 ## 5.  Link to purhcase
-- 🔸  Our Tindie shop - (Direct Purchase link)[https://www.tindie.com/products/honeyhoneytrading/esp32-marauder-5g-apex-5-module-for-flipper/]
+- 🔸  Our Tindie shop - [Direct Purchase link](https://www.tindie.com/products/honeyhoneytrading/esp32-marauder-5g-apex-5-module-for-flipper/)
 - 🔸  Our Official Shopify shop - Direct Link (In Progress)
 
 <Br/>
