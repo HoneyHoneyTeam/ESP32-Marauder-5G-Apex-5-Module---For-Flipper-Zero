@@ -107,8 +107,11 @@ Whether you're new or experienced, you can get started quickly and confidently.
 
 	
 ## 7. Initial Setup Guide (First-Time Use)
-**Written guide in progress**. Most of this topic is covered in the “**Introduction to the Apex 5**” video, and the written guide will serve as a supplementary reference.
-Estimated release of the first version: before 15/02/2026
+
+- 🔸 #### [YouTube Video for Initial Setup, Quick Marauder Demo, and How to use the Dual SubGhz functions](https://youtu.be/tI_roxnqMi8)
+
+- 🔸 #### Written Guide
+
 
 <Br/>
 
