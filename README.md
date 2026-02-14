@@ -108,6 +108,25 @@ Whether you're new or experienced, you can get started quickly and confidently.
 	
 ## 7. Initial Setup Guide (Written Guide)
 
+When you receive the Apex 5 Module, an one-time initial setup is required in the GPIO settings on the Flipper Zero. This setup allows the Flipper Zero to **communicate properly with the Apex 5 Module**, particularly the ESP32-C5 and CC1101 chipsets, as shown in the animated diagram below.
+
+![Alt text](Assets/images/FlipperZeroSetup.Apex5.gif)
+
+**GPIO Configuration Details**
+
+- 🔸  CC1101 SPI: Default 4
+- 🔸  NRF24 SPI: Extra 7
+- 🔸  ESP32 / ESP8266 UART: Extra 15, 16
+- 🔸  NMEA GPS UART: Default 13, 14
+
+**GPS Usage Note**
+
+If you would like to use GPS, the UART settings must be swapped:
+
+- 🔸  ESP32 / ESP8266 UART: Default 13, 14
+- 🔸  NMEA GPS UART: Extra 15, 16
+
+This configuration ensures proper communication when GPS functionality is enabled. Additionally, the Apex 5 Module must be placed in an outdoor area, and a GPS antenna must be connected for proper GPS reception.
 
 <Br/>
 
