@@ -101,7 +101,7 @@ Whether you're new or experienced, you can get started quickly and confidently.
 	
 ## 6. Demo videos
 - 🔸 **[Introduction to the Apex 5](https://youtu.be/tI_roxnqMi8)**, including initial setup, a quick Marauder walkthrough, and a demo of the dual Sub-GHz functions.
-- 🔸 **How to update Marauder firmware** on the ESP32-C5 chipset
+- 🔸 [**How to update Marauder firmware** on the ESP32-C5 chipset](https://youtu.be/umymbWbM4Ls). Further info will be covered in next chapter
 
 <Br/>
 
@@ -161,7 +161,7 @@ While upgrading to a newer firmware may provide additional features, we do not r
   
 - 🔸  The Serial-USB function is based on FTDI. If your computer has trouble recognizing the serial port of the ESP32-C5, this driver might help: [FTDI driver](https://ftdichip.com/drivers/vcp-drivers/). Further technical info can be check [this link](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c5/get-started/establish-serial-connection.html)
 
-- 🔸  [The Update Video link via Youtube, pushlished by us]()
+- 🔸  [The Update Video link via Youtube, pushlished by us](https://youtu.be/umymbWbM4Ls)
 <Br/>
 
 #### 3️⃣ Written Guide. The thorough version in a step-by-step fashion.
