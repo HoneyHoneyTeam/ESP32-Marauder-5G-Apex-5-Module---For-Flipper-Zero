@@ -174,10 +174,16 @@ While upgrading to a newer firmware may provide additional features, we do not r
    ![Alt text](Assets/images/FlashDownloadTool.SS.1.jpg)
    
 4. 🔸  While **holding down the BOOT button / B button** on the Apex 5 Module, connect the Apex 5 Module to your PC or Mac using the **USB-C port between the pins**.
-5. 🔸  These two actions must be **performed simultaneously** — pressing and holding the boot button while powering on is the standard procedure for entering bootloader mode on the device.
+5. 🔸  These two actions must be **performed simultaneously** — pressing and holding the boot button while connecting the Module / powering on is the standard procedure for entering bootloader mode on the device.
 6. 🔸  If your computer recognizes the **ESP32-C5** chipset, a **COMxx** port should be available for selection in the Flash Download Tool.
 7. 🔸  Next, click **Flash**. Allow the application to run for a few seconds until the process is complete. When finished, the screen should appear as shown in the following image.
    ![Alt text](Assets/images/FlashDownloadTool.SS.done.jpg)
+
+#### known issues and solutions
+
+In some cases, the ESP32-C5 may fail to boot or respond to Marauder after a firmware update. Repeating the upgrade process usually resolves this issue — simply **perform the same firmware update again**.
+
+At this time, the root cause of this behavior is unknown.
 
 
 
