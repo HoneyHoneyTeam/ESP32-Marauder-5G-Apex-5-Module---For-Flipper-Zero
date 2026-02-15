@@ -137,7 +137,7 @@ Additionally, the Apex 5 Module must be placed in an outdoor area, and a GPS ant
 
 ## 8. How to Use Marauder Firmware & How to Update the Firmware (Written Guide)
 
-- #### Our 2 cent on updating latest firmware.
+#### 1️⃣  Our 2 cent on updating latest firmware.
 	
 When the Apex 5 Module is shipped, it comes **pre-loaded with the latest stable Marauder firmware**. For most users, it is **plug-and-play**.
 
@@ -149,7 +149,7 @@ While upgrading to a newer firmware may provide additional features, we do not r
 
 <Br/>
 
-- #### Video Guide
+#### 2️⃣ Video Guide
 
 - 🔸  The lazy package, including **Flash Download Tool** from Espressif (Windows version), **Marauder firmware**, and **necessary binary (.bin) files**,  can be downloaded via: [this dropbox link](https://www.dropbox.com/scl/fi/i5mt078kky2rm4br7wxox/flash_download_tool_3.9.9_R2.For.Double.Barrel.5G.C5.Version.zip?rlkey=4fayfh5agvm8hhbbvkqv27oes&st=51wofks6&dl=0).
 
@@ -164,7 +164,7 @@ While upgrading to a newer firmware may provide additional features, we do not r
 - 🔸  [The Update Video link via Youtube, pushlished by us]()
 <Br/>
 
-- #### **Written Guide. The thorough version in a step-by-step fashion.**
+#### 3️⃣ Written Guide. The thorough version in a step-by-step fashion.
 
 1. 🔸  The duide is based on **Flash Download Tool** on Windows
 3. 🔸  Setup the tool as showed in the following two picture.
@@ -179,7 +179,7 @@ While upgrading to a newer firmware may provide additional features, we do not r
 7. 🔸  Next, click **Flash**. Allow the application to run for a few seconds until the process is complete. When finished, the screen should appear as shown in the following image.
    ![Alt text](Assets/images/FlashDownloadTool.SS.done.jpg)
 
-- #### known issues and solutions
+#### 4️⃣ known issues and solutions 
 
 In some cases, the ESP32-C5 may fail to boot or respond to Marauder after a firmware update. Repeating the upgrade process usually resolves this issue — simply **perform the same firmware update again**.
 
