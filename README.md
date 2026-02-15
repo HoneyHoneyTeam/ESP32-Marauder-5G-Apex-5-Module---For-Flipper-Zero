@@ -155,11 +155,11 @@ While upgrading to a newer firmware may provide additional features, we do not r
 
 - 🔸  Alternaltely, you could download all individual files / software as following.
 
-1. [ESP32.C5 firmware files](https://github.com/justcallmekoko/ESP32Marauder/tree/master/C5_Py_Flasher/bins), Link credit to [@JustCallmeKoko](https://github.com/justcallmekoko)
+1. [ESP32.C5 firmware and BIN files](https://github.com/justcallmekoko/ESP32Marauder/tree/master/C5_Py_Flasher/bins), Link credit to [@JustCallmeKoko](https://github.com/justcallmekoko)
 2. [Flash Download Tool](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html), Link credit to to Espressif aka the chip maker
 3. [Upgrade Python Script if you are using Mac/Linux](https://github.com/justcallmekoko/ESP32Marauder/tree/master/C5_Py_Flasher), Link credit to [@JustCallmeKoko](https://github.com/justcallmekoko)
   
-- 🔸  The Serial-USB function is based on FTDI. If your computer has trouble recognizing the serial port, please try downloading and installing [the appropriate FTDI driver](https://ftdichip.com/drivers/vcp-drivers/). Further technical info can be check [this link](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c5/get-started/establish-serial-connection.html)
+- 🔸  The Serial-USB function is based on FTDI. If your computer has trouble recognizing the serial port of the ESP32-C5, this driver might help: [FTDI driver](https://ftdichip.com/drivers/vcp-drivers/). Further technical info can be check [this link](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c5/get-started/establish-serial-connection.html)
 
 - 🔸  [The Update Video link via Youtube, pushlished by us]()
 <Br/>
