@@ -136,8 +136,49 @@ Additionally, the Apex 5 Module must be placed in an outdoor area, and a GPS ant
 
 
 ## 8. How to Use Marauder Firmware & How to Update the Firmware (Written Guide)
-Written guide in progress. Most of this topic is covered in the “How to Update Marauder Firmware” video, and the written guide will serve as a supplementary reference.
-Estimated release of the first version: before 15/02/2026
+
+- #### Our 2 cent on updating latest firmware.
+	
+When the Apex 5 Module is shipped, it comes **pre-loaded with the latest stable Marauder firmware**. For most users, it is **plug-and-play**.
+
+While upgrading to a newer firmware may provide additional features, we do not recommend updating immediately after receiving the Apex 5 Module for first-time users, for the following reasons:
+
+- Although the upgrade process may appear straightforward, **it can be challenging** if the required software environment has not been properly set up in advance.
+- Newly released firmware versions may introduce bugs that have not yet been identified, it is the nature of rapid development / open-source. We generally recommend waiting around two weeks, as most users prefer stability and reliability over early access to untested features.
+- Ignore this advice if you are an advanced user.
+
+<Br/>
+
+#### Video Guide
+
+- 🔸  The lazy package, including **Flash Download Tool** from Espressif (Windows version), **Marauder firmware**, and **necessary binary (.bin) files**,  can be downloaded via: [this dropbox link](https://www.dropbox.com/scl/fi/i5mt078kky2rm4br7wxox/flash_download_tool_3.9.9_R2.For.Double.Barrel.5G.C5.Version.zip?rlkey=4fayfh5agvm8hhbbvkqv27oes&st=51wofks6&dl=0).
+
+- 🔸  Alternaltely, you could download all individual files / software as following.
+
+1. [ESP32.C5 firmware files](https://github.com/justcallmekoko/ESP32Marauder/tree/master/C5_Py_Flasher/bins), Link credit to [@JustCallmeKoko](https://github.com/justcallmekoko)
+2. [Flash Download Tool](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html), Link credit to to Espressif aka the chip maker
+3. [Upgrade Python Script if you are using Mac/Linux](https://github.com/justcallmekoko/ESP32Marauder/tree/master/C5_Py_Flasher), Link credit to [@JustCallmeKoko](https://github.com/justcallmekoko)
+  
+- 🔸  The Serial-USB function is based on FTDI. If your computer has trouble recognizing the serial port, please try downloading and installing [the appropriate FTDI driver](https://ftdichip.com/drivers/vcp-drivers/). Further technical info can be check [this link](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c5/get-started/establish-serial-connection.html)
+
+- 🔸  [The Update Video link via Youtube, pushlished by us]()
+<Br/>
+
+**Written Guide. The thorough version in a step-by-step fashion.**
+
+1. 🔸  The duide is based on **Flash Download Tool** on Windows
+3. 🔸  Setup the tool as showed in the following two picture.
+   <br/>
+   ![Alt text](Assets/images/FlashDownloadTool.SS.0.jpg)
+   <br/>
+   ![Alt text](Assets/images/FlashDownloadTool.SS.1.jpg)
+   
+4. 🔸  While **holding down the BOOT button / B button** on the Apex 5 Module, connect the Apex 5 Module to your PC or Mac using the **USB-C port between the pins**.
+5. 🔸  These two actions must be **performed simultaneously** — pressing and holding the boot button while powering on is the standard procedure for entering bootloader mode on the device.
+6. 🔸  Next, click “Flash.” Allow the application to run for one seconds until the process is complete. When finished, the screen should appear as shown in the following image.
+   ![Alt text](Assets/images/FlashDownloadTool.SS.done.jpg)
+
+
 
 <Br/>
 
