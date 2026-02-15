@@ -110,7 +110,7 @@ Whether you're new or experienced, you can get started quickly and confidently.
 
 #### **GPIO Configuration Details For ESP32-C5 and CC1101 Subghz**
 
-When you receive the Apex 5 Module, to ensure proper communication between the Flipper Zero and the Apex 5 Module—particularly the ESP32-C5 and CC1101 chipsets—please configure the GPIO settings as shown in the animated diagram below.
+When you receive the Apex 5 Module, to ensure proper communication between the Flipper Zero and the Apex 5 Module — particularly the **ESP32-C5 and CC1101** chipsets — please configure the GPIO settings as shown in the animated diagram below.
 
 ![Alt text](Assets/images/FlipperZeroSetup.Apex5.gif)
 
@@ -143,8 +143,11 @@ Estimated release of the first version: before 15/02/2026
 
 
 ## 9. How to Utilize Sub-GHz (Written Guide)
-**Written guide in progress**. Most of this topic is covered in the “**Introduction to the Apex 5**” video, and the written guide will serve as a supplementary reference.
-Estimated release of the first version: before 15/02/2026
+
+- 🔸  **Button function**: The (A) button is used to switch between Sub-GHz 433 MHz and 868 MHz modes. The individual LEDs (433mhz and 868mhz) on the left will also switch accordingly when the button is pressed.
+- 🔸  **Important**: The switch must be set before opening the Flipper Sub-GHz app. Otherwise, the app may freeze and the Flipper will need to be rebooted (Press and hold the LEFT and RETURN buttons at the same time).
+- 🔸  **Frequency matching**: The Sub-GHz frequency must be configured correctly in both the Apex 5 Module and the Flipper app. For example, if the target frequency is 433.88 MHz, set the Apex 5 Module to 433 MHz, and then set the Sub-GHz frequency in the Flipper app to 433.88 MHz.
+
 
 <Br/>
 
