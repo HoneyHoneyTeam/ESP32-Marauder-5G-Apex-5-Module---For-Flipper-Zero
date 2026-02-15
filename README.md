@@ -85,7 +85,7 @@ Whether you're new or experienced, you can get started quickly and confidently.
 ## 4. Package List / What’s Included
 - 🔸  1 × Apex 5 Module
 - 🔸  Pre-installed 2-piece 3D-printed enclosure (available in black or white)
-- 🔸  **5 × Antennas** (please refer to Photo 3 for antenna types and their purposes)
+- 🔸  **5 × Antennas** (please refer to Photo 4 for antenna types and their purposes)
 - 🔸  **1 × Quick-start note** to help you get started and our contact for warrenty and technical suppoort
 
 
@@ -122,6 +122,8 @@ When you receive the Apex 5 Module, an one-time initial setup is required in the
 **GPS Usage Note**
 
 If you would like to use GPS, the UART settings must be swapped:
+
+![Alt text](Assets/images/Apex.5.set.GPS.GPIO.gif)
 
 - 🔸  ESP32 / ESP8266 UART: Default 13, 14
 - 🔸  NMEA GPS UART: Extra 15, 16
