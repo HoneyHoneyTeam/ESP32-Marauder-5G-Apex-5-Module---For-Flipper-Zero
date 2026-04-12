@@ -9,6 +9,8 @@
 ![Alt text](Assets/images/Both.Flipper.without.Attenna.jpg)
 
 > [!NOTE]
+> - Batch 2 units are now available. More Detail please check the in comparison chart - 12.April.2026 update.
+>
 > - Batch 1 units will be available to order on Tindie from 12 Feb 2026 and are scheduled to ship on Friday, 15 Feb 2026.
 >   
 > - 09 Feb 2026 — First version of this manual, by Anson C. @ Honey Honey Team
