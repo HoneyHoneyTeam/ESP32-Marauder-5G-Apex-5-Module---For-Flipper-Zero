@@ -7,6 +7,7 @@
 ![Alt text](Assets/images/White.front.Flipper.jpg)
 ![Alt text](Assets/images/Standalone.B.W.jpg)
 ![Alt text](Assets/images/Both.Flipper.without.Attenna.jpg)
+![Alt text](Assets/images/In.Comparison.V1.V2.compressed.jpg)
 
 > [!NOTE]
 > - Batch 2 units are now available. More Detail please check the in comparison chart - 12.April.2026 update.
