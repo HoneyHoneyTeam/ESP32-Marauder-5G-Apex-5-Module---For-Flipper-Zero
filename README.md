@@ -119,8 +119,6 @@ When you receive the Apex 5 Module, to ensure proper communication between the F
 
 ![Alt text](Assets/images/FlipperZeroSetup.Apex5.gif)
 
-
-
 - 🔸  CC1101 SPI: Default 4
 - 🔸  NRF24 SPI: Extra 7
 - 🔸  ESP32 / ESP8266 UART: Extra 15, 16
@@ -129,15 +127,13 @@ When you receive the Apex 5 Module, to ensure proper communication between the F
 
 ## 7.2. Initial Setup Guide (Written Guide) for Apex 5 **Version 2 (V2)**
 
-Unlike Version 1 (V1), the Apex 5 Version 2 (V2) does not require any initial setup. The V2 board is completely plug-and-play.
+Unlike Version 1 (V1), the Apex 5 Version 2 (V2) does **NOT** require any initial setup. The V2 board is completely plug-and-play.
 
 From a technical perspective, the major difference between V1 and V2 is the GPIO pin allocation. On the V2 board, we redesigned the GPIO mapping so that the Flipper Zero can communicate with both the ESP32-C5 and the GPS module simultaneously. This allows features such as Wardriving in the Marauder firmware to function correctly.
 
-With the V2 board, the GPIO configuration on the Flipper Zero matches the default settings used by most Flipper Zero firmware, including the official firmware, Momentum, and Unleashed. As a result, no initial configuration is required for the vast majority of users. In other words, Apex 5 V2 board is compatible with most of Flipper Zero firmware. 
+With the V2 board, the GPIO configuration on the Flipper Zero matches the default settings used by most Flipper Zero firmware, including the official firmware, Momentum, Unleashed and etc. As a result, no initial configuration is required for the vast majority of users. 
 
 The GPIO settings should appear as shown below, which are the default values. Unless these settings have been modified previously, there is nothing you need to change before using the V2 board.
-
-
 
 - 🔸  CC1101 SPI: Default 4
 - 🔸  NRF24 SPI: Extra 7
@@ -162,12 +158,12 @@ Additionally, the Apex 5 Module must be placed in an outdoor area, and a GPS ant
 
 **2️⃣ For Version 2 (V2)**
 
-If you would like to access GPS data, please use Marauder app, which is showed as following
+If you would like to access realtime GPS data, please use Marauder app, which is showed as following
 
 Using Momentum firmware stable version 12 as example
 - At Flipper Zero manual
-- Go to <APP> - <ESP> - <Marauder> -
--  
+- Go to <APP> - <ESP> - <[ESP32] WiFi Marauder> - <GPS Data>
+
 
 <Br/>
 
@@ -186,11 +182,12 @@ While upgrading to a newer firmware may provide additional features, we do not r
 
 <Br/>
 
-#### 2️⃣ Video Guide for upgrading via MicroSD card - updated 08.July.2026
+#### 2️⃣ Written Guide for firmware upgrading via MicroSD card - updated 08.July.2026
 
 ⚠️ Important Notes
 - 🔸  Only use firmware designed for **ESP32 C5 DevKit**. 
 - 🔸  Using the wrong or corrupted firmware can brick your module.
+- 🔸  This method is suitable on both Apex 5 Version 1 (V1) and Version 2 (V2)
 
 Currently, the easiest way to update Marauder firmware is via Micro SD card. Here is the process. 
 
@@ -206,13 +203,13 @@ Currently, the easiest way to update Marauder firmware is via Micro SD card. Her
 
 **4.	Insert the SD card**
 •	Place the card into the Apex 5 module’s MicroSD card slot.
-•	If the module is no recognize the MicroSD card, using REBOOT option in the Marauder Manual.
-•	Try a different MicroSD card if a MicroSD cannot be recognised by the device.
+•	*If the module is no recognize the MicroSD card, using **REBOOT** option in the Marauder Manual.*
+•	*Try a different MicroSD card if a MicroSD cannot be recognised by the device.*
 
 
 **5.	Start the update** 
 •	Open the Marauder App on the Flipper Zero. 
-•	Select the **firmware update** option and follow on-screen instructions.
+•	Select the **update** option and follow on-screen instructions.
 
 
 
