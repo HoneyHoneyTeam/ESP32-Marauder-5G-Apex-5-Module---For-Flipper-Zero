@@ -10,8 +10,7 @@
 ![Alt text](Assets/images/In.Comparison.V1.V2.compressed.jpg)
 
 > [!NOTE]
-> - Some chapters have been rewritten, while others have been reorganized to improve readability and understanding.
-> - A new section, "Marauder Firmware Update via Micro SD Guide," has also been added - 08 July 2026.
+> Added a new section, "Marauder Firmware Update via Micro SD Guide." Also, Performed general housekeeping across several chapters to improve readability, organization, and overall clarity. - 08 July 2026.
 >
 > - Batch 2 units are now available. More Detail please check the in comparison chart - 12.April.2026 update.
 >
