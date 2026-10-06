@@ -162,7 +162,7 @@ If you would like to access realtime GPS data, please use Marauder app, which is
 
 Using Momentum firmware stable version 12 as example
 - At Flipper Zero manual
-- Go to <APP> - <ESP> - <[ESP32] WiFi Marauder> - <GPS Data>
+- Go to <APP> - <ESP> - <[ESP32] WiFi Marauder> - <GPS.Data>
 
 
 <Br/>
